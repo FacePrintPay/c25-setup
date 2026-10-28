@@ -84,3 +84,5 @@ echo "🔧 Setup complete! Reboot Termux for best results."
 echo ""
 echo "✨ Tip: Run 'neofetch' or 'figlet Welcome' to test!"
 echo "🚀 You are now equipped, Planetary Agent."
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=setup.sh
